@@ -50,15 +50,15 @@ Upgraded with typing animation + GitHub stats (dark/light mode)
 
 #### 🟦 **Senior Web Developer — EarthLike.io**
 📅 *Apr 2024 – Sep 2025*  
-💻 UCSB systems (RND, PMS, TMS, SMS), LDAP integration, reporting dashboards, and role management using Laravel + React.
+💻 Binfo Dashboard.
 
 #### 🟩 **Senior Developer — TeleHealth Myanmar (Royal Clinic)**
 📅 *Sep 2023 – Mar 2024*  
-💬 Built teleconsultation platform with React Native + Laravel and integrated payment systems.
+💬 Built Digital Clinic platform with React Native + Laravel and integrated payment systems.
 
 #### 🟨 **Senior Web Developer — Agga.io**
 📅 *Sep 2020 – Mar 2023*  
-🛍️ Projects: Tenes E-commerce, LifeX Subscription System, Binfo Dashboard.
+🛍️ Projects: UCSB systems (RND, PMS, TMS, SMS), LDAP integration, reporting dashboards, and role management using Laravel + React. LifeX Subscription System,
 
 ---
 
